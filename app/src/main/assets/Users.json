@@ -1,0 +1,52 @@
+{"users":[
+    {
+        "sex": "male",
+        "name": "Steve Hodges",
+        "phoneNumber": "+ 282(297)782-23-80682"
+    },
+    {
+        "sex": "unknown",
+        "name": "Mildred Cox",
+        "phoneNumber": "+ 729(8017)268-78-99546"
+    },
+    {
+        "sex": "male",
+        "name": "Mark Harris",
+        "phoneNumber": "+ 662(1421)101-93-44727"
+    },
+    {
+        "sex": "male",
+        "name": "David Saunders",
+        "phoneNumber": "+ 501(7049)689-66-43525"
+    },
+    {
+        "sex": "female",
+        "name": "Diane Thomas",
+        "phoneNumber": "+ 239(2078)662-13-08763"
+    },
+    {
+        "sex": "female",
+        "name": "Joan Parks",
+        "phoneNumber": "+ 716(1109)515-62-44082"
+    },
+    {
+        "sex": "male",
+        "name": "Micheal Hall",
+        "phoneNumber": "+ 162(9986)959-33-87882"
+    },
+    {
+        "sex": "female",
+        "name": "Kathryn Miller",
+        "phoneNumber": "+ 955(3030)767-77-83258"
+    },
+    {
+        "sex": "unknown",
+        "name": "Ruth Hall",
+        "phoneNumber": "+ 649(7094)392-88-05252"
+    },
+    {
+        "sex": "female",
+        "name": "Linda Rodriquez",
+        "phoneNumber": "+ 551(4373)386-40-79668"
+    }
+]}
